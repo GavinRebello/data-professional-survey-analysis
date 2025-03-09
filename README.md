@@ -1,7 +1,7 @@
 # data-professional-survey-analysis
  Power BI dashboard project
 
-### Dashboard Link :<iframe title="data survey project" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=e658b010-f1d0-40ed-bfe2-5af924082653&autoAuth=true&ctid=8bb5eb58-6580-4d23-8008-c60e1928d208" frameborder="0" allowFullScreen="true"></iframe>
+### Dashboard Link :"https://app.powerbi.com/reportEmbed?reportId=e658b010-f1d0-40ed-bfe2-5af924082653&autoAuth=true&ctid=8bb5eb58-6580-4d23-8008-c60e1928d208"
 
 ## Problem Statement
 
